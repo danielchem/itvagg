@@ -1,0 +1,12 @@
+#
+
+#Plot the output distance PDF by command:
+python plot-PDF.py -i ../data/20170424/Selected-data/X-X/cluster-idXX-result.dat
+
+
+#calculation the distance between two aggregate by 
+python interaction-com-com-add.py -i ../data/20170424/Selected-data/X-X/cluster-idXXX -o ../Results/X-X/cluster-idXXX-result.dat
+
+
+
+
